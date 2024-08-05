@@ -18,3 +18,5 @@ Performed analysis using data and created interactive dashboards.
 
 Able to visualize the data  more efficiently.
 
+Created Excel Dashboard using the data manipulation, data cleaning, data transformation methods.
+
